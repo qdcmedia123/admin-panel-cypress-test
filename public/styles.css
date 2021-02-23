@@ -1,0 +1,73 @@
+@font-face {
+    font-family: PoppinsLight;
+    src: url("../fonts/Poppins-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: PoppinsBold;
+    src: url("../fonts/Poppins-Bold.otf") format("opentype");
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+body {
+	font-family: PoppinsLight;
+	background-color: #F8F8F8 !important;
+	margin-bottom: 60px; /* Margin bottom by footer height */
+}
+
+.font-main-color {
+	color:#000000;
+}
+
+.font-secound-color {
+	color: #848484
+}
+
+.origin-blue {
+	color: ##017DFF;
+}
+
+.positive-red {
+	color:#04B600;
+}
+
+.onhold_yellow {
+	color: #EDB900;
+}
+
+
+
+.collapse12 {
+	background-color: #FFFFFF !important; 
+	display: block;
+	width: auto;
+	height: auto;
+	width:100%;
+}
+
+.navbar-nav li a {
+	font-family: PoppinsBold !important;
+	color:#505050 !important;
+	font-size: 12px !important;
+
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #FFFFFF !important; 
+  bottom: 0;
+}
+
+
+.datatable-input input[type="text"] {
+	display:none !important;
+}

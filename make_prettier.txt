@@ -1,0 +1,4 @@
+prettier --write "src/**/*.js"
+
+/api/v1/getAccountIActivity/{accountID}/{months}
+https://esubs.wealthface.ca/api/v1/getAccountIActivity/8242b300-d392-4aea-a39e-9001471fddb0.1573110821511/1

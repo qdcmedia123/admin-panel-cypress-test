@@ -1,0 +1,5 @@
+"finTranTypeID": "SPUR", is Trade 
+"finTranTypeID": "CSR",, is Deposits and Withdrawls
+"finTranTypeID": "DIV", = Dividentds and interest 
+anything expcet above value is another activities
+
