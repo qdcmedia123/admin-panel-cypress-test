@@ -114,7 +114,7 @@ function App(props) {
                   <ul className="navbar-nav">
                     {/* Check if list leads is enabled */}
                     {listLead ? (
-                      <li className="nav-item dropdown">
+                      <li className="nav-item dropdown" id = "li__leads">
                         <a
                           href="!#"
                           className=" nav-link dropdown-toggle"

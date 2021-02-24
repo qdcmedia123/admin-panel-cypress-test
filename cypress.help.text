@@ -1,1 +1,4 @@
 https://github.com/quasarframework/quasar/issues/2233
+
+//Preserve cookies / localStorage session across tests in Cypress
+https://stackoverflow.com/questions/50471047/preserve-cookies-localstorage-session-across-tests-in-cypress?rq=1
